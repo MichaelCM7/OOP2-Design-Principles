@@ -1,4 +1,4 @@
-package SingleResponsibility.Adheres;
+package SingleResponsibilityPrinciple.Adheres;
 
 public class Payment {
     public void makePayment(){

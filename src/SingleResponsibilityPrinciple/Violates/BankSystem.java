@@ -1,4 +1,4 @@
-package SingleResponsibility.Violates;
+package SingleResponsibilityPrinciple.Violates;
 
 class Bank{
     public void makeDeposit(){

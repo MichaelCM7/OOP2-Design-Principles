@@ -1,4 +1,4 @@
-package SingleResponsibility.Adheres;
+package SingleResponsibilityPrinciple.Adheres;
 
 public class main {
     public static void main(String[] args) {
