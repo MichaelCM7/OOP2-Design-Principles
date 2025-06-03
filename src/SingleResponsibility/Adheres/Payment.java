@@ -1,6 +1,6 @@
-package SingleResponsibility.Adherence;
+package SingleResponsibility.Adheres;
 
-public class Customer {
+public class Payment {
     public void makePayment(){
         System.out.println("Paid");
     }

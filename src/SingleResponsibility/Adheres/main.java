@@ -1,4 +1,4 @@
-package SingleResponsibility.Adherence;
+package SingleResponsibility.Adheres;
 
 public class main {
     public static void main(String[] args) {

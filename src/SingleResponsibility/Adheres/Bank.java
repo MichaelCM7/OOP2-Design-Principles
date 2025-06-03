@@ -1,4 +1,4 @@
-package SingleResponsibility.Adherence;
+package SingleResponsibility.Adheres;
 
 public class Bank {
     public void makeDeposit(){
