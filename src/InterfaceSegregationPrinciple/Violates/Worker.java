@@ -1,7 +1,6 @@
 package InterfaceSegregationPrinciple.Violates;
 
 public interface Worker {
-    void code();
-    void test();
-    void design();
+    void work();
+    void eat();
 }
