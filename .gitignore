@@ -10,3 +10,6 @@
 /dataSources.local.xml
 .idea/
 .out/
+out/
+.out/prodution/
+src/
